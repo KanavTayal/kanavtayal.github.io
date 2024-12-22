@@ -14,7 +14,9 @@ redirect_from:
 📚 I am passionate about contributing to the academic community, particularly in the fields of Machine Learning and computational research, and enjoy assisting others in their academic journeys.
 
 🌐 I am enthusiastic about exploring advanced computational methods and their applications in fluid dynamics.
+
 🤖 I actively engage in learning and experimenting with Machine Learning techniques to enhance research methodologies in my field.
+
 📈 I am committed to continuous learning and collaborating with peers to solve complex problems and advance scientific understanding.
 
 A data-driven personal website

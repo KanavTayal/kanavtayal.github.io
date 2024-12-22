@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
+
+![Illustration of CFD](/images/cfd.png){: .align-right width="300px"}
 👨🏻‍💻 I am a second-year graduate student at PEC, Chandigarh, specializing in Computational Fluid Mechanics.
 
 🔬 My current research focuses on developing a Terminal Velocity tracking algorithm.

@@ -26,7 +26,8 @@ redirect_from:
 
     * Research integrates OpenCV for frame analysis and scales measurements.
 
-    * Potential applications in microfluidics and environmental engineering.  
+    * Potential applications in microfluidics and environmental engineering.
+     
   2. CFD and Courant Number Analysis:
     * Learning and applying numerical stability concepts for computational fluid dynamics.
 

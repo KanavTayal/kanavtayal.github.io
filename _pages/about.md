@@ -23,17 +23,17 @@ Current Research Projects
 ======
 1. Bubble Tracking in Hele Shaw Cell:
 
-  Developed an object detection algorithm to analyze bubble velocities in confined channels.
+  * Developed an object detection algorithm to analyze bubble velocities in confined channels.
 
-  Research integrates OpenCV for frame analysis and scales measurements.
+  * Research integrates OpenCV for frame analysis and scales measurements.
 
-  Potential applications in microfluidics and environmental engineering.
+  * Potential applications in microfluidics and environmental engineering.
 
 2. CFD and Courant Number Analysis:
 
-  Learning and applying numerical stability concepts for computational fluid dynamics.
+  * Learning and applying numerical stability concepts for computational fluid dynamics.
 
-  Preparing to implement simulations using OpenFOAM and Basilisk C++ tools.
+  * Preparing to implement simulations using OpenFOAM and Basilisk C++ tools.
 
 Getting started
 ======

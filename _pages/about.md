@@ -30,14 +30,9 @@ redirect_from:
    - Learning and applying numerical stability concepts for computational fluid dynamics.
    - Preparing to implement simulations using OpenFOAM and Basilisk C++ tools.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## 👨🏻‍🔬 Professional Experience
+
+Currently, I am working as a Student Researcher at IIT Roorkee under the guidance of Prof. Das, focusing on fluid mechanics. My research involves exploring advanced computational techniques and numerical simulations to enhance the understanding of fluid dynamics. Additionally, I have hands-on experience in bubble tracking within Hele Shaw cells, integrating OpenCV for object detection and velocity analysis, and applying concepts such as the Courant number for computational fluid dynamics simulations using tools like OpenFOAM and Basilisk C++.
 
 Site-wide configuration
 ------

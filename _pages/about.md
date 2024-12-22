@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I am Kanav Tayal"
+title: "👋 Hello there, I am Kanav"
 author_profile: true
 redirect_from: 
   - /about/

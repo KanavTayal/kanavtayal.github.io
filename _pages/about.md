@@ -32,7 +32,7 @@ redirect_from:
 
 ## 👨🏻‍🔬 Professional Experience
 
-Currently, I am working as a Student Researcher at IIT Roorkee under the guidance of Prof. Das, focusing on fluid mechanics. My research involves exploring advanced computational techniques and numerical simulations to enhance the understanding of fluid dynamics. Additionally, I have hands-on experience in bubble tracking within Hele Shaw cells, integrating OpenCV for object detection and velocity analysis, and applying concepts such as the Courant number for computational fluid dynamics simulations using tools like OpenFOAM and Basilisk C++.
+Currently, I am working as a **Student Researcher** at IIT Roorkee under the guidance of Prof. Das and Prof. Lokesh Rohilla, focusing on fluid mechanics. My research involves exploring **advanced computational techniques** and numerical simulations to enhance the understanding of fluid dynamics. Additionally, I have hands-on experience in bubble tracking within Hele Shaw cells, integrating OpenCV for **object detection** and **velocity analysis**, and applying concepts such as the Courant number for computational fluid dynamics simulations using tools like **OpenFOAM and Basilisk C++**.
 
 Site-wide configuration
 ------

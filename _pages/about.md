@@ -19,7 +19,7 @@ redirect_from:
 
 📈 I am committed to continuous learning and collaborating with peers to solve complex problems and advance scientific understanding.
 
-## Current Research Projects
+## 📜 Current Research Projects
 
 1. **Bubble Tracking in Hele Shaw Cell**:
    - Developed an object detection algorithm to analyze bubble velocities in confined channels.
